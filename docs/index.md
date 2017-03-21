@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Mémo guitare
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+![](images/note_guitare.png)
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Les accords ouverts
+![](images/Accords_A.png)
+![](images/Accords_CDG.png)
+![](images/Accords_E.png)
