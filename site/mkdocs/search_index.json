@@ -2,8 +2,8 @@
     "docs": [
         {
             "location": "/", 
-            "text": "M\u00e9mo guitare\n\n\n\n\nLes accords ouverts", 
-            "title": "Home"
+            "text": "M\u00e9mo guitare\n\n\n\n\nLes accords ouverts\n\n\n\n\n\n\n\n\nPentatonique mineure", 
+            "title": "Accueil"
         }, 
         {
             "location": "/#memo-guitare", 
@@ -16,14 +16,19 @@
             "title": "Les accords ouverts"
         }, 
         {
-            "location": "/about/", 
-            "text": "Au sujet de cette documentation\n\n\nqui me servira de r\u00e9f\u00e9rence", 
-            "title": "About"
+            "location": "/#pentatonique-mineure", 
+            "text": "", 
+            "title": "Pentatonique mineure"
         }, 
         {
-            "location": "/about/#au-sujet-de-cette-documentation", 
-            "text": "qui me servira de r\u00e9f\u00e9rence", 
-            "title": "Au sujet de cette documentation"
+            "location": "/about/", 
+            "text": "A propos de cette documentation\n\n\nEcrite avec l'outil \nmkdocs.org\n.", 
+            "title": "A propos"
+        }, 
+        {
+            "location": "/about/#a-propos-de-cette-documentation", 
+            "text": "Ecrite avec l'outil  mkdocs.org .", 
+            "title": "A propos de cette documentation"
         }
     ]
 }
