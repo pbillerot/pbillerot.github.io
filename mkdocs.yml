@@ -1,5 +1,6 @@
 site_name: Bill DOC
 pages:
-    - Accueil: index.md
+    - Mémo Guitare: index.md
     - A propos: about.md
 theme: readthedocs
+extra_css: [extra.css]

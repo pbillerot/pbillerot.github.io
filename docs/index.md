@@ -1,4 +1,4 @@
-# Mémo guitare
+# Les notes
 
 ![](images/note_guitare.png)
 
@@ -9,3 +9,14 @@
 
 # Pentatonique mineure
 ![](images/pentatonique_mineure.png)
+
+# Blues 12 bar blues 
+![](images/A7.png)![](images/D7.png)![](images/E7.png)
+
+|||||
+| :--: | :--: | :--: | :--: |
+| A7 | A7 | A7 | A7 |
+| D7 | D7 | A7 | A7 |
+| E7 | D7 | A7 | E7 |
+
+[Ecoute](media/blues-12-bar-blues.mp3)
