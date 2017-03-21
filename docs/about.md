@@ -1,3 +1,5 @@
-# Au sujet de cette documentation
+# A propos de cette documentation
 
-qui me servira de référence
+Ecrite avec l'outil [mkdocs.org](http://mkdocs.org).
+
+

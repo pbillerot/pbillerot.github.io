@@ -1,5 +1,5 @@
-site_name: PBI DOC
+site_name: Bill DOC
 pages:
-    - Home: index.md
-    - About: about.md
+    - Accueil: index.md
+    - A propos: about.md
 theme: readthedocs
