@@ -1,4 +1,4 @@
-# Les notes
+# Les notes sur le manche
 
 ![](images/note_guitare.png)
 
@@ -11,9 +11,10 @@
 ![](images/pentatonique_mineure.png)
 
 # Blues 12 bar blues 
-![](images/A7.png)![](images/D7.png)![](images/E7.png)
+|![](images/A7.png)|![](images/D7.png)|![](images/E7.png)|
+| :--: | :--: | :--: |
 
-|||||
+|1|2|3|4|
 | :--: | :--: | :--: | :--: |
 | A7 | A7 | A7 | A7 |
 | D7 | D7 | A7 | A7 |
