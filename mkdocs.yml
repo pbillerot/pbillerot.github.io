@@ -1,6 +1,7 @@
 site_name: Bill DOC
 pages:
     - Mémo Guitare: index.md
+    - True Love: truelove.md
     - A propos: about.md
 theme: readthedocs
 extra_css: [extra.css]
