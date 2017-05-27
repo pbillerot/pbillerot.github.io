@@ -2,12 +2,9 @@
 
 [Ecoute ça](media/Mark Knopfler - True Love Will Never Fade.mp3)
 
+![](images/true_love.png)
 ![](images/true_love_1.png)
 ![](images/true_love_2.png)
-![](images/true_love_3.png)
-![](images/true_love_4.png)
-![](images/true_love_5.png)
-![](images/true_love_6.png)
 
 ## Tabbed By Mad Mart
 
