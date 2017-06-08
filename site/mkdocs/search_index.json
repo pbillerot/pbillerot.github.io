@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Les notes sur le manche\n\n\n\n\nLes accords ouverts\n\n\n\n\n\n\n\n\nPentatonique mineure\n\n\n\n\nBlues 12 bar blues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA7\n\n\nA7\n\n\nA7\n\n\nA7\n\n\n\n\n\n\n\n\n\n\nA7\n\n\nD7\n\n\nA7\n\n\nA7\n\n\n\n\n\n\nE7\n\n\nD7\n\n\nA7\n\n\nE7\n\n\n\n\n\n\n\n\nEcoute \u00e7a", 
+            "text": "Les notes sur le manche\n\n\n\n\nLes accords ouverts\n\n\n\n\n\n\n\n\nPentatonique mineure\n\n\n\n\nBlues 12 bar blues\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA7\n\n\nA7\n\n\nA7\n\n\nA7\n\n\n\n\n\n\n\n\n\n\nA7\n\n\nD7\n\n\nA7\n\n\nA7\n\n\n\n\n\n\nE7\n\n\nD7\n\n\nA7\n\n\nE7\n\n\n\n\n\n\n\n\nEcoute \u00e7a\n\n\nFond de batterie\n\n\nRock 120", 
             "title": "M\u00e9mo Guitare"
         }, 
         {
@@ -24,6 +24,11 @@
             "location": "/#blues-12-bar-blues", 
             "text": "A7  A7  A7  A7      A7  D7  A7  A7    E7  D7  A7  E7     Ecoute \u00e7a", 
             "title": "Blues 12 bar blues"
+        }, 
+        {
+            "location": "/#fond-de-batterie", 
+            "text": "Rock 120", 
+            "title": "Fond de batterie"
         }, 
         {
             "location": "/truelove/", 
