@@ -6,3 +6,5 @@ pages:
     - A propos: about.md
 theme: readthedocs
 extra_css: [extra.css]
+markdown_extensions: 
+  - admonition

@@ -24,5 +24,7 @@
 
 [Ecoute ça](media/blues-12-bar-blues.mp3)
 
-
-
+!!! danger "Explicit title within double quotes"
+    Actual behavior
+    no matter the word, everything is light blue
+    only the word warning gives red color (instead of beige-brown)
