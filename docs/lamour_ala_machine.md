@@ -1,6 +1,6 @@
 # "L'amour à la machine" d'Alain Souchon
 
-[Ecoute ça](media/Lamour_ala_machine-Alain_Souchon.mp4)
+[Ecoute ça](https://youtu.be/aWBTUZ72W68)
 
 [Tablature proposé par Pascal Sandrez](http://guitar.pascalsandrez.fr/tablature/Alain-Souchon/L%27Amour-A--La-Machine.html)
 ```
@@ -10,11 +10,11 @@ Refrain
  Em                D        Em  D             Em      D
 Passez notre amour à la machine,   faites le bouillir
       Em             D          Em  D          Em      D
-Pour voir si les couleurs d'origine,   peuvent revenir
+Pour voir si les couleurs d`origine,   peuvent revenir
             Em           D             Em D         Em     D
-Est-ce qu'on peut ravoir à l'eau de Javel,  des sentiments
+Est-ce qu`on peut ravoir à l`eau de Javel,  des sentiments
      Em                D        Em   D    Em   D
-La blancheur qu'on croyait éternelle,   avant
+La blancheur qu`on croyait éternelle,   avant
 
       C                     G
 Pour retrouver le rose initial
@@ -23,14 +23,14 @@ De ta joue   devenue pâle
      C                       G
 Le bleu de nos baisers du début
          Em  C     G
-Tant d'azur    perdu
+Tant d`azur    perdu
 
 
 Refrain
 
 
    C                             G
-Matisse l'amour c'est bleu difficile
+Matisse l`amour c`est bleu difficile
        Em     C         G
 Les caresses rouges fragiles
     C                      G
