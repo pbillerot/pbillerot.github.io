@@ -1,6 +1,8 @@
 site_name: Bill DOC
 pages:
     - Mémo Guitare: index.md
+    - Foule Sentimentale: foule_sentimentale.md
+    - L'Amour à la Machine: lamour_ala_machine.md
     - True Love: truelove.md
     - Wonderwall: wonderwall.md
     - A propos: about.md

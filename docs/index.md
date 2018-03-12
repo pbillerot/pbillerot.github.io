@@ -24,5 +24,5 @@
 
 [Ecoute ça](media/blues-12-bar-blues.mp3)
 
-# Fond de batterie
-[Rock 120](media/rock_120.mp3)
+# Boîte à rythmes
+[Rock 120](media/drump_120.mp3)

@@ -3,32 +3,48 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <loc>None/</loc>
+     <lastmod>2018-03-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/truelove/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <loc>None/foule_sentimentale/</loc>
+     <lastmod>2018-03-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/wonderwall/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <loc>None/lamour_ala_machine/</loc>
+     <lastmod>2018-03-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/about/</loc>
-     <lastmod>2017-06-08</lastmod>
+     <loc>None/truelove/</loc>
+     <lastmod>2018-03-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/wonderwall/</loc>
+     <lastmod>2018-03-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/about/</loc>
+     <lastmod>2018-03-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
